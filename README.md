@@ -1,13 +1,22 @@
+<<<<<<< HEAD
 # Convex Tour Chat
 
-Welcome to Convex Tour Chat! 
+This is a sample app used in the convex tutorial to show off the fundamentals of
+the Convex platform.
 
-Convex Tour Chat is a dynamic messaging platform designed for travelers to connect, share experiences, and discover new destinations. Whether you're a seasoned explorer or a novice adventurer, our chat app provides a space for lively discussions, helpful tips, and meaningful connections.
+[Go check out the tutorial](https://convex.dev/start)
 
-## Features
+Jump into any particular step of the tutorial with a branch:
 
-- **Real-time Messaging**: Engage in conversations with fellow travelers in real-time.
-- **Message Tagging**: Tag messages with topics or categories for easy organization and discovery.
-- **Like Button**: Show appreciation for messages you enjoy by liking them.
-- **Topic-based Searching**: Easily find conversations related to specific topics or interests.
-- **Emoji Support**: Express yourself with a wide range of emojis.
+1.  Simple chat app with message display order bug (branch = main, 0-start)
+1.  Simple chat app with correct message display (branch = 1-smileys)
+1.  Enhanced chat app a "likes" feature added (branch = 2-likes)
+1.  Enhanced chat app with a GPT integration (branch = 3-gpt)
+
+# To run
+
+    $ npm i
+    $ npm run dev
+=======
+# Chat-app
+>>>>>>> 720c7c6df92828d9590869c6732f3c17d1a877b2
