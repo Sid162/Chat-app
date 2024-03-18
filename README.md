@@ -1,4 +1,4 @@
-# Convex Tour Chat
+# Convex Chat App
 
 Welcome to Convex Tour Chat! 
 
